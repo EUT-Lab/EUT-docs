@@ -1,16 +1,35 @@
 # 🌌 EUT-Lab Documentation
 
-Welcome to the official documentation hub for the **Einstein Unified Theory (EUT) Ecosystem**.
-
-## 🔹 Repositories
-- [eut-core](https://github.com/EUT-Lab/eut-core) — canonical axioms & foundations
-- [eut-quantum-geometry-bio](https://github.com/EUT-Lab/eut-quantum-geometry-bio) — biology demos
-- [eut-gravwaves-ligo](https://github.com/EUT-Lab/eut-gravwaves-ligo) — gravitational wave analysis
-
-## 🔹 Zenodo Archive
-All official releases are archived with DOIs in the  
-[EUT-Lab Zenodo Community](https://zenodo.org/communities/eut-lab).
+Welcome to the **Einstein Unified Theory (EUT) Documentation Hub**.  
+This site brings together guides, references, and examples across the entire EUT-Lab ecosystem.  
 
 ---
 
-📖 *“From harmony, not particles — resonance first, form second.”*
+## 🔹 Core Repositories
+- [**eut-core**](https://github.com/EUT-Lab/eut-core)  
+  Canonical axioms, definitions, and operator structures.  
+
+- [**eut-quantum-geometry-bio**](https://github.com/EUT-Lab/eut-quantum-geometry-bio)  
+  Demonstrations of harmonic resonance in biology — transcriptomics, connectomics, and metabolic reprogramming.  
+
+- [**eut-gravwaves-ligo**](https://github.com/EUT-Lab/eut-gravwaves-ligo)  
+  Pipelines and predictions for gravitational-wave analysis under EUT.  
+
+---
+
+## 🔹 Framework Modules
+- **Omega** — modular compression & entropy operator  
+- **TTPP** — transcendent periodicity principle  
+- **BSD-TTPP** — Birch–Swinnerton–Dyer refinements  
+- **AION** — adaptive integration framework  
+
+---
+
+## 🔹 Resources
+- [📦 Zenodo Community Archive](https://zenodo.org/communities/eut-lab) — official archived releases with DOIs  
+- [📖 GitHub Organization](https://github.com/EUT-Lab) — all repositories  
+- [💬 Discussions](https://github.com/orgs/EUT-Lab/discussions) — share questions and ideas  
+
+---
+
+📜 *“From harmony, not particles — resonance first, form second.”*
